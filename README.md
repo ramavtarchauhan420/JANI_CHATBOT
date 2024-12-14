@@ -1,4 +1,4 @@
-### 🌷𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑🌷
+### 🌷𝗜𝗦𝗧𝗞𝗛𝗔𝗥🌷
 
 <!--
 **itzshukla/itzshukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,11 +6,11 @@
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/itzshukla/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/TEAM-ISTKHAR/count.svg" />
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/d9bddd89a8070632de73e.jpg">
+  <img src="https://files.catbox.moe/4ij9ru.jpg">
 </p>
   ━━━━━━━━━━━━━━━━━━━━
 
@@ -22,6 +22,6 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/itzshukla/STRANGER-CHATBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TEAM-ISTKHAR/ISTKHAR_CHATBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
   ━━━━━━━━━━━━━━━━━━━
